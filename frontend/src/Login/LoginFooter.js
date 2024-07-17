@@ -19,9 +19,9 @@ const LoginFooter = () => {
                     </div>
                 </div>
                 <div className="flex items-center space-x-4">
-                    <span className="h-3 w-3 bg-black rounded-full"></span>
-                    <span className="h-3 w-3 bg-black rounded-full"></span>
-                    <span className="h-3 w-3 bg-black rounded-full"></span>
+                    <span className="h-9 w-9 bg-black rounded-full"></span>
+                    <span className="h-9 w-9 bg-black rounded-full"></span>
+                    <span className="h-9 w-9 bg-black rounded-full"></span>
                 </div>
             </div>
         </div>
